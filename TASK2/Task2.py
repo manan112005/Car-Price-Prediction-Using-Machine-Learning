@@ -9,7 +9,7 @@ from sklearn.metrics import r2_score as r2score
 import pickle
 
 
-df = pd.read_csv('E:\INTERNPE\TASK2\car_data.csv')
+df = pd.read_csv('TASK2\car_data.csv')
 print(df.head())
 print(df.shape)
 print(df.info())
